@@ -13,6 +13,8 @@ If you would like to suggest a change to this list, or ask whether a technology 
 * ❌ Unity
 * ❌ Unreal
 * ❌ Godot
+* ❌ qiciengine
+* ❌ PlayCanvas WebGL Game Engine
 * ✅ Melon.js
 * ✅ Phaser 2
 * ✅ Phaser 3
@@ -21,3 +23,6 @@ If you would like to suggest a change to this list, or ask whether a technology 
 * ✅ Matter.js
 * ✅ ZimJS
 * ✅ Sprites from Itch or other places
+* ✅ Pixi.js
+* ✅ Kiwi.js
+* ✅ Stage.js
