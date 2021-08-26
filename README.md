@@ -10,11 +10,8 @@ If you would like to suggest a change to this list, or ask whether a technology 
 
 ## The list of technologies
 
-* ❌ Unity
-* ❌ Unreal
-* ❌ Godot
-* ❌ qiciengine
-* ❌ PlayCanvas WebGL Game Engine
+### Allowed
+
 * ✅ Melon.js
 * ✅ Phaser 2
 * ✅ Phaser 3
@@ -26,3 +23,11 @@ If you would like to suggest a change to this list, or ask whether a technology 
 * ✅ Pixi.js
 * ✅ Kiwi.js
 * ✅ Stage.js
+
+### Not Allowed
+
+* ❌ Unity
+* ❌ Unreal
+* ❌ Godot
+* ❌ qiciengine
+* ❌ PlayCanvas WebGL Game Engine
